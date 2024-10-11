@@ -1,0 +1,10 @@
+###
+POST https://sieg.http.msging.net/commands HTTP/1.1
+Content-Type: application/json
+Authorization: Key c2llZ3JvdXRlcjE6dENLdk1wd0RuY0JXaVRnUTRoaDE=
+
+{  
+  "id": "{{$guid}}",
+  "method": "get",
+  "uri": "/threads/553432937143@wa.gw.msging.net?$take=100"
+}

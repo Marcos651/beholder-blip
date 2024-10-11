@@ -1,0 +1,11 @@
+.PhoneSearchContainer {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    
+}
+
+.PhoneSearchContent {
+    color: #000000;
+    background-color: #333;
+    margin: 0;
+}

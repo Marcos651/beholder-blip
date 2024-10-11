@@ -1,0 +1,11 @@
+### Obter todas as variaves do contexto do contato
+POST https://telek.http.msging.net/commands HTTP/1.1
+Content-Type: application/json
+Authorization: Key dGVsZWtyb3V0ZXI6alBxTDBocjNOc3kwZVdwYVFINVU=
+
+{
+  "id": "{{$guid}}",
+  "to": "postmaster@builder.msging.net",
+  "method": "get",
+  "uri": "/contexts/553432937143@wa.gw.msging.net"
+}
