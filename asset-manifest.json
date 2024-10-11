@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beholder-blip/static/css/main.a37f6b15.css",
+    "main.js": "/beholder-blip/static/js/main.1e8c6f4d.js",
+    "static/js/453.ed3810f9.chunk.js": "/beholder-blip/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/beholder-blip/index.html",
+    "main.a37f6b15.css.map": "/beholder-blip/static/css/main.a37f6b15.css.map",
+    "main.1e8c6f4d.js.map": "/beholder-blip/static/js/main.1e8c6f4d.js.map",
+    "453.ed3810f9.chunk.js.map": "/beholder-blip/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37f6b15.css",
+    "static/js/main.1e8c6f4d.js"
+  ]
+}
